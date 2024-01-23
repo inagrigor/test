@@ -19,7 +19,7 @@ Pentru a participa intr-un proiect cu un numar mare de membrii aplicam sistemul 
 4. realizam modificari numai in acest branch
 5. tremitem acestea schimbari in repo din accountul propriu (push)
 6. unde trebuie sa apara butonul COMPARE and PULL FEQUEST 
-7.apasint acest buton facem request schimbarilor care au fost facute
+7. apasam acest buton, facem request schimbarilor care au fost facute
 
 
 
